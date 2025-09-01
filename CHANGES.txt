@@ -1,0 +1,11 @@
+Stromwaechter - current and voltage monitor and power distribution
+
+bernhard@generationmake.de
+see full project documentation at http://stromwaechter.generationmake.de
+
+changes
+
+version 1.0 - 2019-03-10
+* initial release
+
+
